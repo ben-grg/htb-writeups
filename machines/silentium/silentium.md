@@ -2,7 +2,8 @@
 # Silentium Hack the Box
 ## Enumeration
 ### Nmap Scan
-'''bash nmap -sC -sV 10.129.34.96
+nmap -sC -sV 10.129.34.96
+
 **Findings**
 - **22/tcp(SSH)**
     -Potential for remote access (Require credentials for access)
