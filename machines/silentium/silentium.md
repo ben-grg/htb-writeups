@@ -28,5 +28,12 @@ nmap -sC -sV 10.129.34.96
       - Primary attack surface identified.
 ## Web Enumeration
 ### Directory Bruteforcing
+- gobuster dir -u http://silentium.htb/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt --> wilcard respones
+- exclude lenght --> __!!found__ assets/ directory
+- Fuzzing on directory 
+ 
+ 
+
+ 
 
 
