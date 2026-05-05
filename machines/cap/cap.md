@@ -23,6 +23,7 @@ nmap -sC -sV 10.129.57.59
 
 The webserver was hosting a dashboard application for monitoring packets.
 
+
 ## Web Enumeration
 Brwosing the web application, it showed a security dashboard that include
 
